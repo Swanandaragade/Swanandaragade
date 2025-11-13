@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Swanandaragade
-- 👀 I’m interested in .AI/DS/ML..
-- 🌱 I’m currently learning ..AI&DS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI/DS/ML..
+- 🌱 I have completed B.E. in AI&DS.
+- 📫 How to reach me www.linkedin.com/in/swanand-aragade-99bb88276
 
 <!---
 Swanandaragade/Swanandaragade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
